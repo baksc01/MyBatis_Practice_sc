@@ -6,6 +6,8 @@ import java.util.Map;
 
 public class CategoryController {
 
+    private final
+
     // * 주석을 지우고 Controller 역할에 해당하는 내용을 작성하세요.
 
     // 1. 자주 사용할 Service와 Print 객체를 선언하고, Controller 객체 생성 시 생성되도록 작성하세요.
